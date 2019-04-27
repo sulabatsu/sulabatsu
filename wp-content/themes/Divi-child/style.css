@@ -20,3 +20,13 @@ footer .footer-widget h3.follow-us {
 footer .footer-widget ul.menu li:before {
 	display: none;
 }
+
+.footer-widget:nth-child(2), .footer-widget:nth-child(3) {
+    border-right: solid 2px #f55735;
+}
+
+@media only screen and ( max-width: 980px ) {
+    .footer-widget:nth-child(2), .footer-widget:nth-child(3) {
+        border-right: none;
+    }
+}
