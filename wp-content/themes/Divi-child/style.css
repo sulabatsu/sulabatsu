@@ -42,3 +42,7 @@ footer .footer-widget .custom-html-widget svg {
     fill: #f55735 !important;
     margin: 0 2px;
 }
+
+body.home header .nav li.current_page_item a {
+    color: #fff !important;
+}
