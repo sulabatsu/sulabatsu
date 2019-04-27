@@ -4,3 +4,7 @@
  Description:  Divi Child Theme
  Template:     Divi
 */
+.et_mobile_menu li a:hover, .nav li a:hover {
+    opacity: 1 !important;
+    color: #f55735 !important;
+}
