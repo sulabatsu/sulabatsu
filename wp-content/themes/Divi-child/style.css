@@ -30,3 +30,7 @@ footer .footer-widget ul.menu li:before {
         border-right: none;
     }
 }
+
+*:focus {
+    outline: #f55735 auto 5px;
+}
