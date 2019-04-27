@@ -8,3 +8,7 @@
     opacity: 1 !important;
     color: #f55735 !important;
 }
+
+#top-menu li {
+    padding-right: 50px;
+}
