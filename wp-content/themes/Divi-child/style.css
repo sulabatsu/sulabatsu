@@ -34,3 +34,10 @@ footer .footer-widget ul.menu li:before {
 *:focus {
     outline: #f55735 auto 5px;
 }
+
+footer .footer-widget .custom-html-widget svg {
+    height: 25px;
+    width: 25px;
+    fill: #f55735 !important;
+    margin: 0 2px;
+}
